@@ -1,8 +1,5 @@
 ﻿<Properties StartupConfiguration="{068EBBA4-5032-44A1-B237-76FC1B13650C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="c_sharp_examples/Program.cs">
-    <Files>
-      <File FileName="c_sharp_examples/Program.cs" Line="20" Column="6" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -12,6 +9,9 @@
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
